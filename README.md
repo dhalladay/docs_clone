@@ -1,6 +1,5 @@
 # docs_clone_flutter
-
-A new Flutter project.
+A google doc clone using Flutter
 
 ## Getting Started
 
